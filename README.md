@@ -1,5 +1,7 @@
 # Weather Web With Nextjs and Tailwindcss
 
+![image](https://github.com/gesitwidyatsmo/weather-api-nextjs/assets/140772511/af2c25f2-52b5-41f2-9b69-e035f0516d17)
+
 First, run the development server:
 
 ```bash
